@@ -9,7 +9,7 @@ function App() {
       <h2>Weather Information</h2>
       <div id="answer"></div>
       <CityTemp />
-      <caption>
+      <p>
         <a
           href="https://github.com/thisisannak23/week4-app"
           alt="link to Github Repository"
@@ -17,7 +17,7 @@ function App() {
           Coded
         </a>{" "}
         by Anna Kazanecki
-      </caption>
+      </p>
     </div>
   );
 }
